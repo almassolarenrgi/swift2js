@@ -1,0 +1,11 @@
+2026-02-01 10:18:54.839 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-02-01 10:18:54.840 [error] Copilot extension not found
+2026-02-01 10:18:54.840 [info] Creating node-pty shim: source=c:\Users\almas_hw36umg\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules\node-pty\build\Release, dest=c:\Users\almas_hw36umg\.vscode\extensions\github.copilot-chat-0.36.2\node_modules\@github\copilot\prebuilds\win32-x64
+2026-02-01 10:18:54.840 [info] Creating ripgrep shim: source=c:\Users\almas_hw36umg\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules\@vscode\ripgrep\bin, dest=c:\Users\almas_hw36umg\.vscode\extensions\github.copilot-chat-0.36.2\node_modules\@github\copilot\sdk\ripgrep\bin\win32-x64
+2026-02-01 10:18:54.840 [info] Using the Electron fetcher.
+2026-02-01 10:18:54.840 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-02-01 10:18:54.840 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-02-01 10:18:54.840 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-02-01 10:18:54.840 [info] Found 1 entries to copy: rg.exe
+2026-02-01 10:18:54.840 [info] Found 6 entries to copy: conpty, conpty.node, conpty_console_list.node, pty.node, winpty-agent.exe, winpty.dll
+2026-02-01 10:19:01.349 [info] Logged in as almassolarenrgi
