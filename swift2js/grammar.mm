@@ -33,7 +33,7 @@
    This special exception was added by the Free Software Foundation in
    version 2.2 of Bison.  */
 
-/* C LALR(1) parser skeleton written by Richard Stallman, by
+/* C lair(1) parser skeleton written by Richard Stallman, by
    simplifying the original so-called "semantic" parser.  */
 
 /* All symbols defined below should begin with yy or YY, to avoid

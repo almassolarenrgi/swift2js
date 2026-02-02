@@ -1,0 +1,14 @@
+---
+Crafted by [Genie](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
+
+---
+
+## You
+
+Explain the following error that was seen in jsonc code and suggest a fix if possible: Property keys must be doublequoted jsonc (528)
+
+```
+{ne
+
+    "accessibility.hideAccessibleView": true,
+```

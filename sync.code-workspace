@@ -6,7 +6,12 @@
 	],
     "settings": {
         "cSpell.words": [
-            "projectless"
-        ]
+            "projectiles"
+        ],
+        "aide.convertLanguagePairs": {
+            "jsonc": "abap"
+        },
+        "fittencode.showResourceSubmenu": true,
+        "fittencode.showSubmenu": true
     }
 }
